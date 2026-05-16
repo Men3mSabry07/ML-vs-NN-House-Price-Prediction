@@ -14,7 +14,7 @@ The project uses approximately **100,000 housing records** and compares model pe
 
 ---
 
-# 🚀 Project Idea
+# Project Idea
 
 Instead of directly choosing one approach, I wanted to answer the following question:
 
@@ -255,26 +255,6 @@ Located inside:
 results/graphs/
 ```
 
----
-
-# 🛠️ Technologies Used
-
-## Programming Language
-- Python
-
-## Libraries
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- PyTorch
-- TensorFlow
-
-## Environment
-- Google Colab
-
----
-
 # 📌 Key Learnings
 
 Through this project, I learned:
@@ -288,40 +268,6 @@ Through this project, I learned:
 
 ---
 
-# ▶️ How to Run
-
-## 1️⃣ Clone the Repository
-
-```bash
-git clone <your-repository-link>
-cd House-Price-Prediction
-```
-
----
-
-## 2️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 3️⃣ Run the Notebooks
-
-Start with preprocessing:
-
-```bash
-preprocessing/Preprocessing.ipynb
-```
-
-Then run:
-- Machine Learning models
-- Neural Network models
-- Comparison notebook
-
----
-
 # 📬 Future Improvements
 
 Possible future improvements:
@@ -330,17 +276,16 @@ Possible future improvements:
 - Cross-validation
 - Model deployment using Flask or FastAPI
 - Building an interactive web application
-
 ---
 
+```markdown id="vw9x7y"
 # 👨‍💻 Author
 
-Developed as a practical project to compare:
-- Traditional Machine Learning
-vs
-- Deep Learning for tabular regression problems
+Developed by Abdulmonem Sabry
 
----
+A practical comparison between Machine Learning and Neural Networks for house price prediction.
+```
+
 
 # ⭐ Final Conclusion
 
