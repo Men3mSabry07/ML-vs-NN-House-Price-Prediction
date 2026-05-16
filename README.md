@@ -281,7 +281,7 @@ Possible future improvements:
 ```markdown id="vw9x7y"
 # 👨‍💻 Author
 
-Developed by Abdulmonem Sabry
+Developed by Abdelmenem Sabry
 
 A practical comparison between Machine Learning and Neural Networks for house price prediction.
 ```
